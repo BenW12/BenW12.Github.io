@@ -3,7 +3,6 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>ControllerRolebook</title>
-    <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <h1>Controller </h1>
@@ -130,7 +129,7 @@
     <p><strong>Abilities</strong><br>
       You start the game with two abilities from the list below: </p>
     <p><input type="checkbox">&nbsp;<strong>Chronosnare (cooldown 8+ <input type="checkbox">):
-        </strong> You place a chronosnare field that affects all hostile
+      </strong> You place a chronosnare field that affects all hostile
       characters within Short range. While the snare is active, opposing
       characters must use two actions to make a single move actions. This effect
       ends after two rounds.<br>
@@ -173,3 +172,5 @@
     </p>
   </body>
 </html>
+
+

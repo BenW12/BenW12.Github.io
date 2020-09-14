@@ -1,0 +1,14 @@
+BODY
+{
+	background-color: lightblue;
+	margin: 12px;
+	text-align: left;
+}
+H1
+{
+	color: blue;
+	margin-left: 0px;
+	font:100 26p sans-serif;
+	text-rendering: auto;
+	background-color: ;
+}
