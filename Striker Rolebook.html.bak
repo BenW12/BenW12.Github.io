@@ -3,6 +3,7 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>Striker Rolebook</title>
+    <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <h1>Striker</h1>
@@ -41,22 +42,20 @@ en-GB;mso-ansi-language:en-GB;mso-ligatures:none" lang="en-GB"><input name="Pron
         While you aren’t as tough as a defender, you can overwhelm the enemy and
         be out of there before they can hit back. Strikers cover a wide range of
         warriors, from soldiers to assassins to fearless gladiators.</span></p>
-    <p>
-      <p><span style="language:en-GB;mso-ansi-language:en-GB;mso-ligatures:none"
+    <p> </p>
+    <p><span style="language:en-GB;mso-ansi-language:en-GB;mso-ligatures:none" lang="en-GB">Y</span>ou
+      will need to pick a name for your Striker. Then pick their pronouns. Then
+      choose one from each line below or write your own:</p>
+    <p> Hair: Long braided hair, wild Mohawk, shaved head, <input name="Hair" size="8"
 
-          lang="en-GB">Y</span>ou will need to pick a name for your Striker.
-        Then pick their pronouns. Then choose one from each line below or write
-        your own:</p>
-      <p> Hair: Long braided hair, wild Mohawk, shaved head, <input name="Hair"
+        type="text"> hair<br>
+      Clothing: Black stealth gear, light armour, concealing cloak, <input name="Clothing"
 
-          size="8" type="text"> hair<br>
-        Clothing: Black stealth gear, light armour, concealing cloak, <input name="Clothing"
+        size="8" type="text"><br>
+      Look: Grizzled veteran, flamboyant acrobat, cold professional, <input name="Look"
 
-          size="8" type="text"><br>
-        Look: Grizzled veteran, flamboyant acrobat, cold professional, <input name="Look"
-
-          size="8" type="text"></p>
-    </p>
+        size="8" type="text"></p>
+    <p></p>
     <p>You start with the below stats. </p>
     <p> </p>
     <p> </p>
@@ -211,6 +210,3 @@ en-GB;mso-ansi-language:en-GB;mso-ligatures:none" lang="en-GB"><input name="Pron
     <p></p>
   </body>
 </html>
-
-
-
